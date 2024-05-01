@@ -13,7 +13,7 @@
 
 ## Crear un nuevo repositorio
 
-![Imagen de Portada](imagenes/españa.jpg)
+![Imagen de Portada](imagenes/Imagen1.png)
 
 ## Subir la carpeta src de java al repositorio
 
