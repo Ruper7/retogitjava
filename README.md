@@ -8,12 +8,15 @@
 2. [Subir la carpeta src de java al repositorio](#subir-la-carpeta-src-de-java-al-repositorio)
 3. [Crear una rama en el repositorio](#crear-una-rama-en-el-repositorio)
 4. [Descargar el contenido de la rama al repositorio local](#descargar-el-contenido-de-la-rama-al-repositorio-local)
-5. [Crea una clase nueva y realiza la actualización de la rama en el repositorio](#Crea-una-clase-nueva-y-realiza-la-actualización-de-la-rama-en-el-repositorio)
+5. [Crea una clase nueva y realiza la actualización de la rama en el repositorio](#crea-una-clase-nueva-y-realiza-la-actualización-de-la-rama-en-el-repositorio)
 6. [Guardar modificaciones realizadas en Java y subirlas al repositorio](#guardar-modificaciones-realizadas-en-java-y-subirlas-al-repositorio)
 7. [Realizar comprobacion de los cambios](Realizar-comprobacion-de-los-cambios)
 8. [Fusionar rama con el main del repositorio](#fusionar-rama-con-el-main-del-repositorio)
 
 ## Crear un nuevo repositorio
+
+Hacemos clic en Repositories y esto nos llevará a una interfax en la que tendremos que indicar el nombre del repositorio.
+
 
 ![Imagen de Portada](imagenes/Imagen1.png)
 
