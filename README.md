@@ -13,7 +13,7 @@
 
 ## Crear un nuevo repositorio
 
-Esta sección describe cómo crear un nuevo repositorio en GitHub.
+![Imagen de Portada](imagenes/españa.jpg)
 
 ## Subir la carpeta src de java al repositorio
 
