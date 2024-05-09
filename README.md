@@ -99,7 +99,7 @@ El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta
 ![Imagen de Portada](imagenes/nuvea1.JPG)
 
 
-Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el simbolo *+* en verde indicando que se han realizado cambios.
+Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el simbolo *"+"* en verde indicando que se han realizado cambios.
 Antes de hacer un ***commit***, dejamos titulo (en mi caso el texto duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
 
 Realizmos ***Pusch origin*** para subir los cambios en la rama que hemos seleccionado que en nuestro caso será *desarrolloPersonal*.
@@ -125,6 +125,8 @@ Confirmamos que las dos imagenes están en la rama desarrolloPersona.
 Finalmente vamos a realizar la fusión de las dos carpetas haciendo clic en ***Compare&pull request***.  
 Esta fusión clonará lo que tiene la rama *desarrolloPersona* a la rama *main*.  
 La rama *main* obtendrá lo nuevo de la rama *desarrolloPersona* y mantendrá lo que tenía hasta el momento.
+
+![Imagen de Portada](imagenes/Imagen13.png)
 
 
 Una vez hagamos clic en *Compare&pull request*, nos llevará a una interfaz en la que dejaremos comentario de lo que hemos realizado y nuevamente hacemos clic en ***Create pull request*** para traer los documentos del local al servidor.
