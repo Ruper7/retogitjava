@@ -46,7 +46,7 @@ Dentro del repositorio hacemos clic en ***main***, escribimos el nombre de la nu
 
 Debemos instalar ***GitHub Desktop***. Url para la instalación (https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs).
 
-Una vez instalado, abrimos el programa y seleccionamos ***File*** y clic en ***Clone***, de esta manera quedará clonada la rama a nuestro repositorio local.
+Una vez instalado, abrimos el programa y seleccionamos ***File*** y clic en ***Clone***. De esta manera hemos conseguido clonar nuestra rama *main* a nuestro repositorio local.
 
 ![Imagen de Portada](imagenes/Imagen4.png)
 
