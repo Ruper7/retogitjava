@@ -122,20 +122,22 @@ Confirmamos que las dos imagenes están en la rama desarrolloPersona.
 
 ![Imagen de Portada](imagenes/Imagen13.png)
 
-Finalmente vamos a realizar la fusión de las dos carpetas haciendo clic en ***Compare&pull request***.  
+Finalmente vamos a realizar la fusión de las dos carpetas haciendo clic en ***Compare&pull request***. Se puede ver en la pantalla anterior un aviso en amarillo.   
 Esta fusión clonará lo que tiene la rama *desarrolloPersona* a la rama *main*.  
 La rama *main* obtendrá lo nuevo de la rama *desarrolloPersona* y mantendrá lo que tenía hasta el momento.
 
-![Imagen de Portada](imagenes/Imagen13.png)
-
-
 Una vez hagamos clic en *Compare&pull request*, nos llevará a una interfaz en la que dejaremos comentario de lo que hemos realizado y nuevamente hacemos clic en ***Create pull request*** para traer los documentos del local al servidor.
-Si todo está correcto finalizamos con ***Merge***(fusionar).  
 
-![Imagen de Portada](imagenes/Imagen14.png)
+![Imagen de Portada](imagenes/nueva2.jpg)
+
+
+Si todo está correcto que será confirmado con el circulo en verde, finalizamos con ***Merge pull request***(fusionar).  
+
+![Imagen de Portada](imagenes/nueva3.jpg)
 
 
 ***RAMA main***
 
 En la siguiente imagen comprobamos que están las imagenes que anteriormente no existian en esta rama.
+
 ![Imagen de Portada](imagenes/Imagen14.png)
