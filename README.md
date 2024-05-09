@@ -23,11 +23,18 @@ Podemos indicar si será *private* (nadie podrá ver dicha publicación) o *publ
 
 ## Subir la carpeta src de java al repositorio
 
-Tenemos dos maneras de incluir la carpeta src de java:
-  - Dentro del repositorio que hemos creado hacemos clic en el "+".
-  - Arrastramos la carpeta que queremos subir.
+Accedemos al repositorio y desplegamos la pestaña ***Add file***, hacemos clic en ***Upload file***.
 
 ![Imagen de Portada](imagenes/Imagen2.png)
+
+Esto nos llevará a una nueva interfaz para subir la carpeta.
+
+Tenemos dos maneras de incluir la carpeta src de java:
+  - ***Choose your files***: podemos acceder a la ruta donde está la carpeta que queremos subir.
+  - Arrastramos la carpeta al recuadro.
+
+![Imagen de Portada](imagenes/nueva.jpg)
+
 
 ## Crear una rama en el repositorio
 
