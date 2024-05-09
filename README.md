@@ -136,4 +136,4 @@ Si todo está correcto finalizamos con ***Merge***(fusionar).
 ***RAMA main***
 
 En la siguiente imagen comprobamos que están las imagenes que anteriormente no existian en esta rama.
-![Imagen de Portada](imagenes/Imagen15.png)
+![Imagen de Portada](imagenes/Imagen14.png)
