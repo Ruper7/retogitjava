@@ -62,38 +62,43 @@ Finalmente realizamos un ***Push*** para que quede subido y actualizado en el re
 
 ## Guardar modificaciones realizadas en Java y subirlas al repositorio
 
-Escribimos dentro de la clase nueva que habiamos creado en java e inmediatamente GitHub Desktop nos informará de la modificiación que se ha realizado.
-Volvemos a dejar comentario, en mi caso *Edición clase - Personas*.
-Nuevamente volvemos a realizar un ***commit to main*** para que los cambios queden guardados y finalmente un ***Push*** para subirlo a repositorio.
+Escribimos dentro de la clase nueva que habiamos creado en java e inmediatamente, GitHub Desktop nos informará de la modificiación que se ha realizado.  
+Volvemos a dejar comentario en el recuadro inferior de la izquierda. En mi caso *Edición clase - Personas*.  
+Nuevamente volvemos a realizar un ***commit to main*** para que los cambios queden guardados en el repositorio *main* y finalmente un ***Push*** para subirlo a repositorio.
 
 ![Imagen de Portada](imagenes/Imagen6.png)
 
 ## Realizar comprobacion de los cambios
 
-Para comprobar todos los cambios que hemos realizado y guardado, en GitHub accedemos al repositorio que habiamos creado, hacemos clik en la carpeta ***src*** de java.
+Para comprobar todos los cambios que hemos realizado, entramos en GitHub, accedemos al repositorio que habiamos creado y hacemos clic en la carpeta ***src*** de java.  
 Dentro podemos encontrar los ficheros y clases que habiamos creado y modificado.
 
 ![Imagen de Portada](imagenes/Imagen7.png)
 
 ## Fusionar rama con el main del repositorio
 
-Recordamos que habiamos creado una nueva rama llamada ***desarrolloPersona***, accedemos a ella, hacemos clic en el ***+*** e incluimos la imgaen.
-Realizamos ***commit*** para guardar cambios.
+Vamos a subir una imagen a la rama que habiamos creado nueva con el nombre *desarrolloPersona*. Seguiremos los mismos pasos que seguimos al subir la carpeta src en la rama main.  
+Una vez realicemos el ***commit***, accedemos nuevamente a la rama *desarrolloPersona* para confirmar que se ha subido correctamente como se puede ver en la imagen.
 
 ![Imagen de Portada](imagenes/Imagen8.png)
-
-Verificamos que tenemos la fotografía como se indica en la imagen:
-
-![Imagen de Portada](imagenes/Imagen9.png)
 
 Nuevamente accedemos a GitHub Desktop, seleccionamos la rama *desarrolloPersona* y refrescamos para confirmar si se han realizado cambios. Nos confirmará que si se han realizado.
 Podremos elegir entre dos opciones:
   - ***Previwe Pull***: previsualizar los cambios sin guardar los cambios.
   - ***Create Pull request***: guardará los cambios en la carpeta local de nuestro pc.
 
+![Imagen de Portada](imagenes/Imagen9.png)
+
+En la imagen podemos ver que se ha producido una nueva modificación, la subida de la imagen que hemos realizado.  
+Una vez seleccionemos ***Create Pull request*** los cambios quedarán guardados en nuestra carpeta local del pc.
+
 ![Imagen de Portada](imagenes/Imagen10.png)
 
-El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc. 
+El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc.
+
+![Imagen de Portada](imagenes/Imagen10.png)
+
+
 Una vez duplicada me aparecerá el simbolo + en verde indicnado que se han realizado cambios.
 Antes de hacer un ***commit***, dejamos titulo (en mi caso duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
 
