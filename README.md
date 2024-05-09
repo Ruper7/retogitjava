@@ -94,13 +94,13 @@ Una vez seleccionemos ***Create Pull request*** los cambios quedarán guardados 
 
 ![Imagen de Portada](imagenes/Imagen10.png)
 
-El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc.
+El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc. Como muestra la imagen, ahora existen dos imagenes.
 
-![Imagen de Portada](imagenes/Imagen10.png)
+![Imagen de Portada](imagenes/nuvea1.JPG)
 
 
-Una vez duplicada me aparecerá el simbolo + en verde indicnado que se han realizado cambios.
-Antes de hacer un ***commit***, dejamos titulo (en mi caso duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
+Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el simbolo *+* en verde indicando que se han realizado cambios.
+Antes de hacer un ***commit***, dejamos titulo (en mi caso el texto duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
 
 ![Imagen de Portada](imagenes/Imagen11.png)
 
@@ -114,11 +114,13 @@ Comprobamos que los cambios se han realizado correctamente en la rama que hemos 
 
 Podemos comprobar que las imagenes no están subidas en el main.
 
-![Imagen de Portada](imagenes/Imagen13.png)
-
 ***RAMA desarrolloPersona****
 
-Confirmamos que las dos imagenes están en la rama desarrolloPersona
+Confirmamos que las dos imagenes están en la rama desarrolloPersona.
+
+![Imagen de Portada](imagenes/Imagen13.png)
+
+falta texto
 
 ![Imagen de Portada](imagenes/Imagen14.png)
 
