@@ -15,15 +15,15 @@
 
 ## Crear un nuevo repositorio
 
-Hacemos clic en Repositories y esto nos llevará a una interfax en la que tendremos que indicar el nombre del repositorio.
-Podemos indicar si será private o public e incluimos un Readme para incluir información sobre el proyecto que se ha realizado.
+Hacemos clic en ***Repositories*** y esto nos llevará a una interfaz en la que tendremos que indicar el nombre del repositorio.
+Podemos indicar si será *private* (nadie podrá ver dicha publicación) o *public* (quedará a la vista en GitHub) e incluimos un ***Readme*** para incluir información sobre el proyecto que se ha realizado.
 
 
 ![Imagen de Portada](imagenes/Imagen1.png)
 
 ## Subir la carpeta src de java al repositorio
 
-Tenemos dos maneras de incluir la carpeta src:
+Tenemos dos maneras de incluir la carpeta src de java:
   - Dentro del repositorio que hemos creado hacemos clic en el "+".
   - Arrastramos la carpeta que queremos subir.
 
