@@ -53,8 +53,8 @@ Una vez instalado, abrimos el programa y seleccionamos ***File*** y clic en ***C
 ## Crea una clase nueva en java y realiza la actualización de la rama en el repositorio
 
 Creamos una nueva clase en la carpeta src de java.  
-De forma automática, GitHub Desktop detectará el cambio que se ha realizado.  
-Debemos dejar un comentario con las modifiaciones que hemos realizado, en mi caso he anotado *Nueva clase - Personas*.  
+De forma automática, GitHub Desktop detectará el cambio que se ha realizado y nos lo reflejará con un recuadro en verde.  
+Debemos dejar un comentario con las modifiaciones que hemos realizado en el recuadro inferior de la izquierda. En mi caso he anotado *Nueva clase - Personas*.  
 Realizamos un ***commit to main*** para que los cambios queden guardados.  
 Finalmente realizamos un ***Push*** para que quede subido y actualizado en el repositorio.  
 
