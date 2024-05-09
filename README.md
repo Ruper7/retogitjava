@@ -44,7 +44,7 @@ Tenemos dos maneras de incluir la carpeta src de java:
 
 ## Crear una rama en el repositorio
 
-Dentro del repositorio hacemos clic en ***main***, escribimos el nombre de la nueva ramma y de forma automática nos indica si queremos crearla mediante el mensaje ***Branch desarrolloPresona from main***. Hacemos clic y ya tendríamos creada la nueva rama.
+Dentro del repositorio hacemos clic en ***main***, escribimos el nombre de la nueva rama y de forma automática nos indica si queremos crearla mediante el mensaje ***Branch desarrolloPresona from main***. Hacemos clic y ya tendríamos creada la nueva rama.
 
 
 ![Imagen de Portada](imagenes/Imagen3.png)
@@ -66,7 +66,7 @@ Una vez instalado, abrimos el programa y seleccionamos ***File*** y clic en ***C
 
 Creamos una nueva clase en la carpeta src de java.  
 De forma automática, GitHub Desktop detectará el cambio que se ha realizado y nos lo reflejará con un recuadro en verde.  
-Debemos dejar un comentario con las modifiaciones que hemos realizado en el recuadro inferior de la izquierda. En mi caso he anotado *Nueva clase - Personas*.  
+Debemos dejar un comentario con las modificaciones que hemos realizado en el recuadro inferior de la izquierda. En mi caso he anotado *Nueva clase - Personas*.  
 Realizamos un ***commit to main*** para que los cambios queden guardados.  
 Finalmente realizamos un ***Push*** para que quede subido y actualizado en el repositorio.  
 
@@ -77,7 +77,7 @@ Finalmente realizamos un ***Push*** para que quede subido y actualizado en el re
 
 ## Guardar modificaciones realizadas en Java y subirlas al repositorio
 
-Escribimos dentro de la clase nueva que habiamos creado en java e inmediatamente, GitHub Desktop nos informará de la modificiación que se ha realizado.  
+Escribimos dentro de la clase nueva que habíamos creado en java e inmediatamente, GitHub Desktop nos informará de la modificaciones que se ha realizado.  
 Volvemos a dejar comentario en el recuadro inferior de la izquierda. En mi caso *Edición clase - Personas*.  
 Nuevamente volvemos a realizar un ***commit to main*** para que los cambios queden guardados en el repositorio *main* y finalmente un ***Push*** para subirlo a repositorio.
 
@@ -88,8 +88,8 @@ Nuevamente volvemos a realizar un ***commit to main*** para que los cambios qued
 
 ## Realizar comprobacion de los cambios
 
-Para comprobar todos los cambios que hemos realizado, entramos en GitHub, accedemos al repositorio que habiamos creado y hacemos clic en la carpeta ***src*** de java.  
-Dentro podemos encontrar los ficheros y clases que habiamos creado y modificado.
+Para comprobar todos los cambios que hemos realizado, entramos en GitHub, accedemos al repositorio creado y hacemos clic en la carpeta ***src*** de java.  
+Dentro podemos encontrar los ficheros y clases que se habían creado y modificado.
 
 
 
@@ -99,7 +99,7 @@ Dentro podemos encontrar los ficheros y clases que habiamos creado y modificado.
 
 ## Fusionar rama con el main del repositorio
 
-Vamos a subir una imagen a la rama que habiamos creado nueva con el nombre *desarrolloPersona*. Seguiremos los mismos pasos que seguimos al subir la carpeta src en la rama main.  
+Vamos a subir una imagen a la rama que habíamos creado nueva con el nombre *desarrolloPersona*. Seguiremos los mismos pasos que seguimos al subir la carpeta src en la rama main.  
 Una vez realicemos el ***commit***, accedemos nuevamente a la rama *desarrolloPersona* para confirmar que se ha subido correctamente como se puede ver en la imagen.
 
 
@@ -128,7 +128,7 @@ Una vez seleccionemos ***Create Pull request*** los cambios quedarán guardados 
 
 
 
-El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc. Como muestra la imagen, ahora existen dos imagenes.
+El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta local del pc. Como muestra la imagen, ahora existen dos imágenes.
 
 
 
@@ -136,11 +136,11 @@ El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta
 
 
 
-Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el simbolo *"+"* en verde indicando que se han realizado cambios.
-Antes de hacer un ***commit***, dejamos titulo (en mi caso el texto duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
+Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el símbolo *"+"* en verde indicando que se han realizado cambios.
+Antes de hacer un ***commit***, dejamos título (en mi caso el texto duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
 
 
-Realizmos ***Pusch origin*** para subir los cambios en la rama que hemos seleccionado que en nuestro caso será *desarrolloPersonal*.
+Realizamos ***Pusch origin*** para subir los cambios en la rama que hemos seleccionado que en nuestro caso será *desarrolloPersonal*.
 
 
 
@@ -151,13 +151,13 @@ Realizmos ***Pusch origin*** para subir los cambios en la rama que hemos selecci
 Comprobamos que los cambios se han realizado correctamente en la rama que hemos indicado y no en el main.
 
 ***RAMA main***
-Podemos comprobar que las imagenes no están subidas en el main.
+Podemos comprobar que las imágenes no están subidas en el main.
 
 ![Imagen de Portada](imagenes/Imagen12.png)
 
 
 ***RAMA desarrolloPersona****
-Confirmamos que las dos imagenes están en la rama desarrolloPersona.
+Confirmamos que las dos imágenes están en la rama desarrolloPersona.
 
 ![Imagen de Portada](imagenes/Imagen13.png)
 
@@ -184,6 +184,6 @@ Si todo está correcto que será confirmado con el circulo en verde, finalizamos
 
 
 ***RAMA main***
-En la siguiente imagen comprobamos que están las imagenes que anteriormente no existian en esta rama.
+En la siguiente imagen comprobamos que están las imágenes que anteriormente no existían en esta rama.
 
 ![Imagen de Portada](imagenes/Imagen14.png)
