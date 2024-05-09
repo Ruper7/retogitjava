@@ -102,11 +102,10 @@ El cambio que he llevado a cabo es duplicar la imagen que hay en nuestra carpeta
 Una vez duplicada la imagen, al acceder a GitHub Desktop, aparecerá el simbolo *+* en verde indicando que se han realizado cambios.
 Antes de hacer un ***commit***, dejamos titulo (en mi caso el texto duplico imagen) y descripción de la modificación realizada (en mi caso subo copia duplicada de imagen).
 
-![Imagen de Portada](imagenes/Imagen11.png)
-
 Realizmos ***Pusch origin*** para subir los cambios en la rama que hemos seleccionado que en nuestro caso será *desarrolloPersonal*.
 
-![Imagen de Portada](imagenes/Imagen12.png)
+![Imagen de Portada](imagenes/Imagen11.png)
+
 
 Comprobamos que los cambios se han realizado correctamente en la rama que hemos indicado y no en el main.
 
@@ -114,22 +113,25 @@ Comprobamos que los cambios se han realizado correctamente en la rama que hemos 
 
 Podemos comprobar que las imagenes no están subidas en el main.
 
+![Imagen de Portada](imagenes/Imagen12.png)
+
+
 ***RAMA desarrolloPersona****
 
 Confirmamos que las dos imagenes están en la rama desarrolloPersona.
 
 ![Imagen de Portada](imagenes/Imagen13.png)
 
-falta texto
+Finalmente vamos a realizar la fusión de las dos carpetas haciendo clic en ***Compare&pull request***.  
+Esta fusión clonará lo que tiene la rama *desarrolloPersona* a la rama *main*.  
+La rama *main* obtendrá lo nuevo de la rama *desarrolloPersona* y mantendrá lo que tenía hasta el momento.
+
+
+Una vez hagamos clic en *Compare&pull request*, nos llevará a una interfaz en la que dejaremos comentario de lo que hemos realizado y nuevamente hacemos clic en ***Create pull request*** para traer los documentos del local al servidor.
+Si todo está correcto finalizamos con ***Merge***(fusionar).  
 
 ![Imagen de Portada](imagenes/Imagen14.png)
 
-Finalmente vamos a realizar la fusión de las dos carpetas haciendo clic en ***Compare&pull request***.
-Esta fusión clonará lo que tiene la rama *desarrolloPersona* a la rama *main*.
-La rama *main* obtendrá lo nuevo de la rama *desarrolloPersona* y mantendrá lo que tenía hasta el momento.
-
-Una vez hagamos clic en *Compare&pull request*, nos llevará a una interfaz en la que dejaremos comentario de lo que hemos realizado y nuevamente hacemos clic en ***Create pull request*** para traer los documentos del local al servidor.
-Si todo está correcto finalizamos con ***Merge***(fusionar).
 
 ***RAMA main***
 
