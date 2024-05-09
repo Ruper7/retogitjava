@@ -8,7 +8,7 @@
 2. [Subir la carpeta src de java al repositorio](#subir-la-carpeta-src-de-java-al-repositorio)
 3. [Crear una rama en el repositorio](#crear-una-rama-en-el-repositorio)
 4. [Descargar el contenido de la rama al repositorio local](#descargar-el-contenido-de-la-rama-al-repositorio-local)
-5. [Crea una clase nueva y realiza la actualización de la rama en el repositorio](#crea-una-clase-nueva-y-realiza-la-actualización-de-la-rama-en-el-repositorio)
+5. [Crea una clase nueva en java y realiza la actualización de la rama en el repositorio](#crea-una-clase-nueva-y-realiza-la-actualización-de-la-rama-en-el-repositorio)
 6. [Guardar modificaciones realizadas en Java y subirlas al repositorio](#guardar-modificaciones-realizadas-en-java-y-subirlas-al-repositorio)
 7. [Realizar comprobacion de los cambios](Realizar-comprobacion-de-los-cambios)
 8. [Fusionar rama con el main del repositorio](#fusionar-rama-con-el-main-del-repositorio)
@@ -50,7 +50,7 @@ Una vez instalado, abrimos el programa y seleccionamos ***File*** y clic en ***C
 
 ![Imagen de Portada](imagenes/Imagen4.png)
 
-## Crea una clase nueva y realiza la actualización de la rama en el repositorio
+## Crea una clase nueva en java y realiza la actualización de la rama en el repositorio
 
 Creamos una nueva clase en la carpeta src de java.
 De forma automática, GitHub Desktop detectará el cambio que se ha realizado.
