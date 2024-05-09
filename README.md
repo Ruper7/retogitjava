@@ -38,7 +38,7 @@ Tenemos dos maneras de incluir la carpeta src de java:
 
 ## Crear una rama en el repositorio
 
-Dentro del repositorio hacemos clic en ***main***, escribimos el nombre de la nueva ramma y de forma automática nos indica si queremos crearla mediante el mensaje ***Branch desarrolloPresona from main***.
+Dentro del repositorio hacemos clic en ***main***, escribimos el nombre de la nueva ramma y de forma automática nos indica si queremos crearla mediante el mensaje ***Branch desarrolloPresona from main***. Hacemos clic y ya tendríamos creada la nueva rama.
 
 ![Imagen de Portada](imagenes/Imagen3.png)
 
